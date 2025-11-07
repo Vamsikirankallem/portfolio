@@ -29,7 +29,8 @@ const skills = [
   {name : "Intelij Idea",level:90,category:"tools"},
   {name : "Vercel",level:80,category:"tools"},
   {name : "Netlify",level:80,category:"tools"},
-  {name : "Render",level:80,category:"tools"}
+  {name : "Render",level:80,category:"tools"},
+  {name : "Postman",level:85,category:"tools"}
 ];
 
 const categories = ["all", "frontend", "backend", "tools"];
